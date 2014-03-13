@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPadRetina.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinUIPopOverWithCustomBackground/Main.cs">
+    <Files>
+      <File FileName="XamarinUIPopOverWithCustomBackground/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamarinUIPopOverWithCustomBackground/XamarinUIPopOverWithCustomBackgroundViewController.cs" Line="70" Column="3" />
+      <File FileName="../../Downloads/POPOVER INvestigation/actionsheetexample/actionsheetexampleViewController.cs" Line="1" Column="1" />
+      <File FileName="XamarinUIPopOverWithCustomBackground/PopoverContentViewController.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/POPOVER INvestigation/actionsheetexample/CustomUIPopOverBackgroundView.cs" Line="1" Column="1" />
+      <File FileName="XamarinUIPopOverWithCustomBackground/CustomUIPopOverBackgroundView.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/POPOVER INvestigation/actionsheetexample/PopoverContentViewController.cs" Line="86" Column="32" />
+      <File FileName="XamarinUIPopOverWithCustomBackground/Main.cs" Line="20" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
